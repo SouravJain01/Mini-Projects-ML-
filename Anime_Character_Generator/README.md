@@ -1,4 +1,4 @@
-Created an Anime Character Generator using DCGAN on the dataset provided by ![Kaggle](https://www.kaggle.com/aadilmalik94/animecharacterfaces).
+Created an Anime Character Generator using DCGAN on the dataset provided by [Kaggle](https://www.kaggle.com/aadilmalik94/animecharacterfaces).
 
 Preview of Dataset:-
 
@@ -18,4 +18,4 @@ At Epoch-3000 :-
 
 <img src="https://github.com/SouravJain01/Mini-Projects-ML-/blob/master/Anime_Character_Generator/Generated_3000.PNG" width="300">
 
-The trained model can be loaded easily using ![this](https://github.com/SouravJain01/Mini-Projects-ML-/blob/master/Anime_Character_Generator/reGENERATOR_3000.pth) for Generator and ![this](https://github.com/SouravJain01/Mini-Projects-ML-/blob/master/Anime_Character_Generator/reDISCRIMINATOR_3000.pth) for Discriminator.  
+The trained model can be loaded easily using [this](https://github.com/SouravJain01/Mini-Projects-ML-/blob/master/Anime_Character_Generator/reGENERATOR_3000.pth) for Generator and [this](https://github.com/SouravJain01/Mini-Projects-ML-/blob/master/Anime_Character_Generator/reDISCRIMINATOR_3000.pth) for Discriminator.  
